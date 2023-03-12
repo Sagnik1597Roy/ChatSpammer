@@ -7,4 +7,5 @@ Just run the code, open any whatsapp, telegram or instagram chat, and spams.. BO
  - pyperclip (`pip install pyperclip`)
 
 #### *Thanks for reading*
+#### Higher the number behind "main", the higher the version and the better the code.
 ##### *Enjoy the day*
